@@ -6,7 +6,7 @@
 
 ``` bash
 # git 克隆版本库
-git clone git@github.com:17771258/vue-webpack-multi.git project
+git clone https://github.com/17771258/vue-webpack-multi.git project
 
 # 进入项目目录
 cd project
