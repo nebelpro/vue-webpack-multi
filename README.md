@@ -1,8 +1,8 @@
-# vue2.0 webpack 多页面脚手架
+## vue2.0 webpack 多页面脚手架
 
 > 基于vue2.0 less 搭建的多页面脚手架
 
-## 开始狗叫
+### 构建流程
 
 ``` bash
 # git 克隆版本库
